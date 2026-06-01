@@ -1,7 +1,7 @@
 body{
 font-family:Arial;
 margin:20px;
-background-color:cornflowerblue;
+background-color:cornsilk;
 font-size:smaller;
 }
 
@@ -16,6 +16,8 @@ background:pink;
 padding:70px;
 width:70%;
 margin:auto;
+text-align: center;
+
 
 }
 
@@ -23,6 +25,8 @@ input,select,textarea{
 width:100%;
 padding:8px;
 margin:5px;
+background-color:cornsilk;
+
 }
 
 table{
@@ -44,8 +48,10 @@ padding:5px;
 
 button{
 padding:10px;
-background:lightgrey;
-color:white;
+background:cornsilk;
+color:black;
+padding: 10px;
+margin: 5px;
 
 
 }
